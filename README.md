@@ -1,3 +1,5 @@
+This repository is obsolete now. It has been moved to [here](https://github.com/Elegater/Elegater.github.io) and is live at https://elegater.github.io/
+
 # ApexSearchBrowser
 A tool for Phoenix 2 (iOS game) to search for information on all Apexes in the game, using your browser
 
